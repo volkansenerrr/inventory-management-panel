@@ -43,7 +43,6 @@ src/
  ├── shared/
  ├── App.tsx
 
----
 
 ✨ Özellikler
 Ürün listeleme
@@ -55,6 +54,5 @@ Pagination
 Modal yapısı
 Form validasyonları
 
----
 
 Bu proje eğitim ve case study amaçlı geliştirilmiştir.
