@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "category": "Elektronik",
+      "quantity": 10,
+      "unit": "adet",
+      "status": "stokta"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "category": "Elektronik",
+      "quantity": 2,
+      "unit": "adet",
+      "status": "kritik"
+    },
+    {
+      "id": 3,
+      "name": "Klavye",
+      "category": "Elektronik",
+      "quantity": 0,
+      "unit": "adet",
+      "status": "tükendi"
+    }
+  ]
+}
