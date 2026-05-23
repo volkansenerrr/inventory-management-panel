@@ -26,3 +26,35 @@ Bu uygulama ürünlerin stok durumunu yönetmek için geliştirilmiştir. Kullan
 
 ```bash
 npm install
+Mock API çalıştırma: npx json-server --watch db.json --port 3001
+Frontend çalıştırma: npm run dev
+
+---
+
+📁 Proje Yapısı
+
+src/
+ ├── features/
+ │    └── products/
+ │         ├── components
+ │         ├── hooks
+ │         ├── services
+ │         └── schemas
+ ├── shared/
+ ├── App.tsx
+
+---
+
+✨ Özellikler
+Ürün listeleme
+Ürün ekleme / silme / güncelleme (CRUD)
+Arama (search)
+Filtreleme (stok durumu)
+Dashboard istatistik kartları
+Pagination
+Modal yapısı
+Form validasyonları
+
+---
+
+Bu proje eğitim ve case study amaçlı geliştirilmiştir.
