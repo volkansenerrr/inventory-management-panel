@@ -54,5 +54,5 @@ Pagination
 Modal yapısı
 Form validasyonları
 
-📸 Ekran Görüntüleri inventory-panel içinde screenshots kısmında
+📸 Ekran görüntüleri inventory-panel içinde screenshots kısmında mevcut.
 
