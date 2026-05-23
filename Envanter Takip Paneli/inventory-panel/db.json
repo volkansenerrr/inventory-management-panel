@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Laptop",
       "category": "Elektronik",
       "quantity": 10,
@@ -9,7 +9,7 @@
       "status": "stokta"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Mouse",
       "category": "Elektronik",
       "quantity": 2,
@@ -17,12 +17,13 @@
       "status": "kritik"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Klavye",
       "category": "Elektronik",
       "quantity": 0,
       "unit": "adet",
       "status": "tükendi"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
