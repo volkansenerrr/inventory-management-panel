@@ -54,9 +54,5 @@ Pagination
 Modal yapısı
 Form validasyonları
 
-📸 Ekran Görüntüsü
-(./screenshots/Ekran görüntüsü 2026-05-23 040711.png)
-(./screenshots/Ekran görüntüsü 2026-05-23 040735.png)
-(./screenshots/Ekran görüntüsü 2026-05-23 040837.png)
+📸 Ekran Görüntüleri inventory-panel içinde screenshots kısmında
 
-Bu proje eğitim ve case study amaçlı geliştirilmiştir.
